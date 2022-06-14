@@ -1,5 +1,7 @@
 import sys
 
+#comment
+
 print(sys.argv)
 
 if '-h' in sys.argv or '--help' in sys.argv:
